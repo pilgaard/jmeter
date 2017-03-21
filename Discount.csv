@@ -1,0 +1,5 @@
+lc,10
+nc,15
+c,20
+"lc,c",30
+"lc,nc,c","""Can't both be new customer and have a loyalty card"""
